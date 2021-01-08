@@ -1,0 +1,52 @@
+:root {
+  --mainBlue: #0000ff;
+  --lightBlue: #304960;
+  --mainWhite: #b2c2cf;
+  --mainDark: #232528;
+  --mainYellow: #ffa400;
+}
+
+body {
+  font-family: 'Raleway', sans-serif !important;
+  background: url(./header.png) no-repeat center center fixed !important;
+  background-size: cover;
+  color: var(--mainDark) !important;
+}
+
+.text-title {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.3rem;
+    opacity: 0.8; 
+    background: #ffffff;
+}
+
+.text-blue {
+  color: var(--mainBlue);
+  opacity: 0.8; 
+  background: #ffffff;
+}
+
+.text-bright {
+  color: var(--lightBlue);
+  opacity: 0.8; 
+  background: #ffffff;
+}
+
+.btn-black {
+  background: transparent;
+  font-size: 0.8rem !important;
+  color: var(--mainDark);
+  border-radius: 0 !important;
+  border: 0.1rem solid var(--mainDark) !important;
+}
+
+.btn-black:hover {
+  background: var(--mainDark) !important;
+  color: var(--mainWhite) !important;
+}
+
+.cart-icon {
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: var(--mainYellow);
+}
