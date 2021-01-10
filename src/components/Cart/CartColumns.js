@@ -14,9 +14,6 @@ export default function CartColumns() {
                 <p className="text-uppercase">Ціна</p>
             </div>
             <div className="col-10 mx-auto col-lg-2">
-                <p className="text-uppercase">Кідбкімть</p>
-            </div>
-            <div className="col-10 mx-auto col-lg-2">
                 <p className="text-uppercase">Видалити</p>
             </div>
             <div className="col-10 mx-auto col-lg-2">
