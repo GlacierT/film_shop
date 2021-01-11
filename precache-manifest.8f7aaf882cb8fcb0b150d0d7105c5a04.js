@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "83a98be82f0abc1b7e21",
+    "revision": "91816162d4aafa89d321",
     "url": "/film_shop/static/css/main.22f2d131.chunk.css"
   },
   {
-    "revision": "83a98be82f0abc1b7e21",
-    "url": "/film_shop/static/js/main.cf703c58.chunk.js"
+    "revision": "91816162d4aafa89d321",
+    "url": "/film_shop/static/js/main.77d1c7af.chunk.js"
   },
   {
     "revision": "f8da1da4081b0414e045",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/film_shop/static/media/header.a4e1e681.png"
   },
   {
-    "revision": "f1e5a288fdb8268d8227d35d867d9a90",
+    "revision": "dffb2707e64b7d26e6d19fa118af600e",
     "url": "/film_shop/index.html"
   }
 ];
